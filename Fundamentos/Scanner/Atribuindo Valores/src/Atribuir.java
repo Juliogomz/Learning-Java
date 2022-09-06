@@ -8,7 +8,7 @@ public class Atribuir {
       Scanner leitor = new Scanner(System.in);
       numero = leitor.nextInt();
 
-      //Int é a variável que vai ser preenchida
+      //Numero é a variável que vai ser preenchida
       //Leitor é a variável criada com a classe Scanner para realizar o processo
       //“new Scanner()” serve para instanciar a variável
       //“(System.in)” serve para determinar que o usuário deverá digitar os valores 
@@ -16,4 +16,5 @@ public class Atribuir {
       System.out.println("Número é " + numero);
 
     }
+
 }
