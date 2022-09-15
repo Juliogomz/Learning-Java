@@ -8,7 +8,7 @@ public class AtribuirInteiro {
     int numero;
     Scanner leitor = new Scanner(System.in);
 
-    System.out.println("Digite um número inteiro:");
+    System.out.println("Digite um numero inteiro:");
 
     numero = leitor.nextInt();
 
@@ -17,7 +17,7 @@ public class AtribuirInteiro {
     //“new Scanner()” serve para instanciar a variável
     //“(System.in)” serve para determinar que o usuário deverá digitar os valores 
 
-    System.out.println("O número digitado foi:\n" + numero);
+    System.out.println("O numero digitado foi:\n" + numero);
 
     }
 }

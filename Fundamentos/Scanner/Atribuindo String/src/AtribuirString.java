@@ -17,7 +17,7 @@ public class AtribuirString {
     //“new Scanner()” serve para instanciar a variável
     //“(System.in)” serve para determinar que o usuário deverá digitar os valores 
 
-    System.out.println("O seu nome é:\n" + nome);
+    System.out.println("O seu nome eh:\n" + nome);
 
     }
 }

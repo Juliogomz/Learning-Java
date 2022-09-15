@@ -8,7 +8,7 @@ public class AtribuirFloat {
     float num;
     Scanner leitor = new Scanner(System.in); 
 
-    System.out.println("Digite um número decimal:");
+    System.out.println("Digite um numero decimal:");
 
     num = leitor.nextFloat();
     
@@ -17,7 +17,7 @@ public class AtribuirFloat {
     //“new Scanner()” serve para instanciar a variável
     //“(System.in)” serve para determinar que o usuário deverá digitar os valores 
 
-    System.out.println("O número digitado foi: " + num);
+    System.out.println("O numero digitado foi: " + num);
 
     }
 }

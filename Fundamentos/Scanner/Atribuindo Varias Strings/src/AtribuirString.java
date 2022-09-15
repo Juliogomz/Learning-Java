@@ -16,7 +16,7 @@ public class AtribuirString {
     System.out.println("Digite o nivel da sua classe");
     nivel = leitor.nextInt();
 
-    System.out.println("Sua classe é " + classe +" e o seu nivel é " + nivel);
+    System.out.println("Sua classe eh " + classe +" e o seu nivel eh " + nivel);
 
 
     }
