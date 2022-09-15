@@ -1,5 +1,4 @@
 import java.util.Scanner;
-import java.util.function.ObjIntConsumer;
 
 import javax.swing.JOptionPane;
 
