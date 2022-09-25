@@ -11,7 +11,7 @@ public class scan {
         if(num >= 18){
             System.out.println("Voce eh maior de idade!");
         }
-        if(num < 18){
+        else if(num < 18){
             System.out.println("Voce eh menor de idade!");
         }
         //Nesse exemplo a funcionalidade do if foi usada em conjunto com o Scanner
