@@ -5,7 +5,7 @@ public class scan {
         int num;
 
         Scanner leitor = new Scanner(System.in);
-        System.out.println("Digite sua idade:");
+        System.out.println("Coloque a sua idade:");
         num = leitor.nextInt();
 
         if(num >= 18){
