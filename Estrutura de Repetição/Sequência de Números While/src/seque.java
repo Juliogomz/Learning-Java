@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class sequencia {
+public class seque {
 
     //Esse exemplo usa da funcinalidade do while juntamente com o Scanner pra fazer um contador
 
