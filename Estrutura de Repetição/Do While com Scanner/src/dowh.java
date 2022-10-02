@@ -1,6 +1,5 @@
 import java.util.Scanner;
-
-public class dow {
+public class dowh {
     public static void main(String[] args) throws Exception {
 
         String nome;
